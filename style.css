@@ -1,0 +1,35 @@
+.btn-success:hover{
+    background-color:crimson;
+}
+#supa{
+    animation-name: example;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    color: crimson;
+    }
+    @keyframes example{
+    from{box-shadow: 1px 1px 38px gold; }
+    to {box-shadow: 1px 1px 38px crimson;}
+    }
+    #coolboi{
+        animation-name: example;
+        animation-duration: 2s;
+        animation-iteration-count: infinite;
+        width: 400px;
+        height: 400px;
+        background-color: white;
+        }
+
+        body{
+       background-image:url("le photo.jpg");
+       font-family: 'Press Start 2P', cursive;
+        }
+        #amogus{
+ color: cyan;
+            }
+            #show_sketch{
+               float: right; 
+            }
+
+
+        
